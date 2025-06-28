@@ -9,24 +9,24 @@ The company must identify which aircraft models and types have the lowest operat
 ### EDA objectives
 This notebook explores aircraft risk patterns to support the Company's on safe aircraft acquisition decisions. The following objectives are structured around key EDA phases:
 
-**Data understanding**
+* **Data understanding**
 
-Load and preview the dataset to understand its structure, size and key variables.
-Identify the most relevant columns for analyzing aviation safety.
-**Data cleaning**
+* Load and preview the dataset to understand its structure, size and key variables.
+* Identify the most relevant columns for analyzing aviation safety.
+* **Data cleaning**
 
-Handle missing values and duplicated values.
-Check on inconsistent formatting in the key fields.
-Standardize categorical variables for accurate grouping.
-Check on outliers.......
-**Univariate & Bivariate Analysis**
+* Handle missing values and duplicated values.
+* Check on inconsistent formatting in the key fields.
+* Standardize categorical variables for accurate grouping.
+* Check on outliers.......
+* **Univariate & Bivariate Analysis**
 
-Explore the most common aircraft types and count how many incidents each has.
-Analyze incident trends over time to detect rising or declining risk patterns
-**Multivariate & Grouped Insights**
+* Explore the most common aircraft types and count how many incidents each has.
+* Analyze incident trends over time to detect rising or declining risk patterns
+* **Multivariate & Grouped Insights**
 
-Compare incident frequencies by usage type (commercial vs private), age, or manufacturer.
-**Incident Causes & Locations**
+* Compare incident frequencies by usage type (commercial vs private), age, or manufacturer.
+* **Incident Causes & Locations**
 
-Visualize the top causes of incidents and the regions with the highest incident density.
-### NB// For tableau dashboard here is the [link]:(https://public.tableau.com/app/profile/zipporah.muriithi/viz/Aviation_Data_Summary/Aviationdashoard?publish)
+* Visualize the top causes of incidents and the regions with the highest incident density.
+* ### NB// For tableau dashboard here is the [link]:(https://public.tableau.com/app/profile/zipporah.muriithi/viz/Aviation_Data_Summary/Aviationdashoard?publish)
