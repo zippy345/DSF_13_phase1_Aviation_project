@@ -29,4 +29,4 @@ This notebook explores aircraft risk patterns to support the Company's on safe a
 * **Incident Causes & Locations**
 
 * Visualize the top causes of incidents and the regions with the highest incident density.
-* ### NB// For tableau dashboard here is the [link]:(https://public.tableau.com/app/profile/zipporah.muriithi/viz/Aviation_Data_Summary/Aviationdashoard?publish)
+* ### NB// For tableau dashboard here is the [link:(https://public.tableau.com/app/profile/zipporah.muriithi/viz/Aviation_Data_Summary/Aviationdashoard?publish)](https://public.tableau.com/app/profile/zipporah.muriithi/viz/Aviation_Data_Summary/Aviationdashoard?publish)
